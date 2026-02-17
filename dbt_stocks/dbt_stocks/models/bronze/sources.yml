@@ -1,0 +1,7 @@
+version: 2
+sources:
+  - name: raw
+    database: Stocks_DB
+    schema: Stocks_Sch
+    tables:
+      - name: Bronze_Layer

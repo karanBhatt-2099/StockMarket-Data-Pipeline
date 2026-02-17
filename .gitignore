@@ -1,0 +1,18 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Airflow
+infra/logs/
+logs/
+*.log
+
+# dbt
+dbt_packages/
+target/
+
+# OS
+.DS_Store
+Thumbs.db
+
